@@ -1,8 +1,7 @@
 # Muhammad Bakibillah - Software Engineer
 
-## Education
-- **BSC in CSE | 2017 - 2021**
-  - Pundra University of Science & Technology
+## Objective
+Programming is my passion, and developing is my profession. To accomplish excellence in working as a professional software engineer, offering solutions to problems using the best ways available, where my analytical ability and analyzing ability are used maximum for the growth of the organization and to grow with the organization.
 
 ## Skills
 <p align="center">
@@ -18,9 +17,6 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/938f521e521833f1441bd38ed8613ee95623a5c0d9e2bf2bd3e64c1c1c880dea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/938f521e521833f1441bd38ed8613ee95623a5c0d9e2bf2bd3e64c1c1c880dea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/960e25c89edb27b0b1c4a9f899233e3cebbd06838355ccbd0c92b2eb4bfa8799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/960e25c89edb27b0b1c4a9f899233e3cebbd06838355ccbd0c92b2eb4bfa8799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-
-## Objective
-Programming is my passion, and developing is my profession. To accomplish excellence in working as a professional software engineer, offering solutions to problems using the best ways available, where my analytical ability and analyzing ability are used maximum for the growth of the organization and to grow with the organization.
 
 ## Experience
 ### Software Engineer | 2022 - Now
