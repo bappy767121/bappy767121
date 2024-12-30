@@ -83,7 +83,14 @@ Programming is my passion, and developing is my profession. To accomplish excell
 </p>
 
 ## Experience
-### Software Engineer | 2022 - Now
+### Software Engineer | 2024 - Now
+**SoftBD Ltd.**
+-Played a key role in developing and maintaining ALO EMS, Bangladesh's largest education management system used by over 100 institutes.
+-Contributed to high-impact government projects, including MP Dashboard and Prime ALO.
+-Managed the full software development lifecycle, from design and coding to testing and deployment, ensuring the delivery of robust and scalable solutions.
+-Collaborated with cross-functional teams to optimize system performance, solve complex technical
+  
+### Software Engineer | 2022 - 2024
 **Innoventure Universe Ltd.**
 - Lead developer for various projects, including ecommerce websites, corporate websites, portfolio websites, blog sites, and school management systems.
 - Expertise in Laravel, HTML, CSS, Bootstrap, MySQL, Vue.js, Inertia.js, Ajax, and jQuery.
