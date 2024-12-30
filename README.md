@@ -6,24 +6,9 @@ Programming is my passion, and developing is my profession. To accomplish excell
 ## Skills
 <p align="center">
   <p dir="auto">
-    <!-- JavaScript Badge -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-
-  <!-- TypeScript Badge -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-
-  <!-- PHP Badge -->
+    <!-- PHP Badge -->
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  </a>
-
-  <!-- Vue.js Badge -->
-  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
   </a>
 
   <!-- Laravel Badge -->
@@ -31,14 +16,69 @@ Programming is my passion, and developing is my profession. To accomplish excell
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   </a>
 
-  <!-- CSS3 Badge -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- CakePHP Badge -->
+  <a href="https://cakephp.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP" />
   </a>
 
-  <!-- TailwindCSS Badge -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <!-- MySQL Badge -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+
+  <!-- MongoDB Badge -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+
+  <!-- Git Badge -->
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+
+  <!-- JavaScript Badge -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+
+  <!-- jQuery Badge -->
+  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  </a>
+
+  <!-- AJAX Badge -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AJAX-005F9E?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" />
+  </a>
+
+  <!-- HTML5 Badge -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+
+  <!-- REST API Badge -->
+  <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+  </a>
+
+  <!-- Agile Badge -->
+  <a href="https://www.agilealliance.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Agile-00D09C?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+  </a>
+
+  <!-- SOLID Principles Badge -->
+  <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SOLID_Principles-2C3E50?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID Principles" />
+  </a>
+
+  <!-- PSR-4 Badge -->
+  <a href="https://www.php-fig.org/psr/psr-4/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PSR--4-4A154B?style=for-the-badge&logo=php&logoColor=white" alt="PSR-4" />
+  </a>
+
+  <!-- Algorithm Badge -->
+  <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Algorithms-1F618D?style=for-the-badge&logo=code&logoColor=white" alt="Algorithms" />
   </a>
 </p>
 
